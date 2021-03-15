@@ -1,3 +1,4 @@
+![Capability for Minting Tokens](https://user-images.githubusercontent.com/22247137/111194951-f650eb00-8578-11eb-8b6c-58c7e8bf4bd7.png)
 ---
 nft-rfc: 8
 title: NFT Resource Verification
@@ -256,5 +257,7 @@ affected by the faulty sensor to omit the claims made by the faulty device. One 
 as such this NFT is burned by the UNFCCC. 
 
 ## Diagram
+![Capability for Minting Tokens](https://user-images.githubusercontent.com/22247137/111194978-fe108f80-8578-11eb-8c3e-4c4799d416ff.png)
+
 
 ## Example Data Structures 
